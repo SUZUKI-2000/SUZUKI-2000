@@ -1,4 +1,4 @@
-<img width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ViZHZrd3BhcWM5eWxodG5ka2pnN2c3OHFrYjdhNTltdTlib3kxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12775LeUHMZjNu/giphy.gif"/>
+<img width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHN6c3ZwOG1vZnpvNGJxa3MwbWJhY2w1MjVjenNqbmVtb3M3enI5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YerjNzTZVaPH2M/giphy.gif"/>
 <h1>MY ITEM</h1>
 
 ![](https://skillicons.dev/icons?i=kali,php,python,java,typescript,js,html,css,dart,kotlin)<br>
